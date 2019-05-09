@@ -44,8 +44,6 @@ int count (ifstream &f){
 
 }
 
-char
-
 int main() {
 
     ifstream f;
